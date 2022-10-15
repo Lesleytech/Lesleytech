@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lesleytech
+- 👋 Hi, I’m Lafen Lesley
 - 👀 I’m interested in... You guessed it!! All things JavaScript.
 - 🌱 I’m currently learning a bit of Game Development with Unity and Mobile Development with Flutter
 - 💞️ I’m looking to collaborate on innovative solutions and other fun projects
